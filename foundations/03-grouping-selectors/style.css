@@ -1,0 +1,14 @@
+#wantsit, 
+#nowantsit {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+#wantsit {
+    background-color: black;
+    color: white;
+}
+
+#nowantsit {
+    background-color: yellow;
+}
